@@ -1,0 +1,5 @@
+mongodb+srv://shashanktiwari400_db_user:PQV9OFHRmGv62Wug@cluster0.6yq1hyz.mongodb.net/interview-master
+
+shashanktiwari400_db_user
+
+PQV9OFHRmGv62Wug
